@@ -28,3 +28,5 @@ To run the project, follow these steps:
 
 # Choose either TensorFlow or PyTorch for deep learning framework
 !pip install tensorflow==2.6.0  # or !pip install torch
+
+Google APIs
